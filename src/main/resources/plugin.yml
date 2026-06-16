@@ -1,0 +1,62 @@
+name: ZenexChat
+version: 1.0.0
+api-version: 1.21
+main: com.zenex.chat.ZenexChat
+author: ZenexPlugins
+description: 💬 Продвинутая система чата с интеграцией SimpleVoiceChat
+softdepend: [PlaceholderAPI, Vault, LuckPerms, SimpleVoiceChat]
+
+commands:
+  chat:
+    description: Главная команда чата
+    usage: /chat <reload|global|local|game|voice|format|hologram>
+    aliases: [c, чат]
+  
+  g:
+    description: Глобальный чат
+    usage: /g <сообщение>
+    aliases: [глобал]
+  
+  l:
+    description: Локальный чат
+    usage: /l <сообщение>
+    aliases: [локальный]
+  
+  voice:
+    description: Голосовое сообщение
+    usage: /voice <сообщение>
+    aliases: [голос, vc]
+  
+  vc:
+    description: Голосовой чат (SimpleVoiceChat)
+    usage: /vc <включить|выключить|присоединиться|выйти>
+    aliases: [voicechat, голосовой]
+
+permissions:
+  zenexchat.admin:
+    description: Административные права
+    default: op
+  zenexchat.global:
+    description: Доступ к глобальному чату
+    default: true
+  zenexchat.local:
+    description: Доступ к локальному чату
+    default: true
+  zenexchat.voice:
+    description: Доступ к голосовым сообщениям
+    default: true
+  zenexchat.color:
+    description: Использовать цвета в чате
+    default: true
+  zenexchat.gradient:
+    description: Использовать градиенты
+    default: op
+  zenexchat.hologram:
+    description: Показывать голограмму над головой
+    default: true
+  zenexchat.vc:
+    description: Доступ к голосовому чату
+    default: true
+  zenexchat.bypass:
+    description: Обход ограничений
+    default: op

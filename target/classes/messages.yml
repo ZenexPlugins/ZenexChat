@@ -1,0 +1,21 @@
+# =====================================================
+# ZenexChat - Сообщения
+# =====================================================
+
+messages:
+  no-permission: "&c❌ У вас нет прав!"
+  reload: "&a✅ ZenexChat перезагружен!"
+  player-only: "&c❌ Только игроки!"
+  cooldown: "&c❌ Подождите {time} секунд!"
+  unknown-command: "&c❌ Неизвестная команда!"
+  
+  global-format: "&7[&6Глобал&7] &f{player} &7: &f{message}"
+  local-format: "&7[&aЛокальный&7] &f{player} &7: &f{message}"
+  voice-format: "&7[&b🎤&7] {player} &6: &7{message}"
+  
+  hologram-spawn: "&a💬 Голограмма появилась!"
+  hologram-despawn: "&7💬 Голограмма исчезла"
+  
+  game-start: "&a🎮 Игра началась!"
+  game-end: "&c🎮 Игра закончена!"
+  game-win: "&a🎉 {player} победил!"

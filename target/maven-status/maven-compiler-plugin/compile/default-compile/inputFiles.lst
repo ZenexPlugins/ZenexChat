@@ -1,0 +1,15 @@
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/command/GlobalCommand.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/manager/ChatManager.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/command/LocalCommand.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/command/ChatCommand.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/ZenexChat.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/command/VoiceChatCommand.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/voice/VoiceChatManager.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/manager/FormatManager.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/manager/CooldownManager.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/manager/GameManager.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/manager/VoiceManager.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/command/VoiceCommand.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/utils/PlaceholderHook.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/listener/ChatListener.java
+/storage/emulated/0/plugins/ZenexChat/src/main/java/com/zenex/chat/hologram/HologramManager.java

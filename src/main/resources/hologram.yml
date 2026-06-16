@@ -1,0 +1,36 @@
+# =====================================================
+# ZenexChat - Настройки голограмм
+# =====================================================
+
+height: 1.5
+duration: 5
+radius: 50
+only-sender: false
+show-to-all: true
+ignore-creative: true
+ignore-spectator: true
+
+format: |
+  &f{player}
+  &7{message}
+
+spawn-effect:
+  enabled: true
+  particle: "SPELL_WITCH"
+  count: 10
+  speed: 0.1
+
+despawn-effect:
+  enabled: true
+  particle: "CLOUD"
+  count: 8
+  speed: 0.05
+
+spawn-sound:
+  enabled: true
+  sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+  volume: 0.5
+  pitch: 1.0
+
+max-per-player: 3
+update-interval: 10
